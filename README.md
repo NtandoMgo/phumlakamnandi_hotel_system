@@ -29,14 +29,10 @@ A user-friendly Hotel Reservation Ssytem designed to be used by a receptionsist
 ## Usage
 
 1. Clone the Repository:
-git clone https://github.com/https://github.com/SteveJava/Phumla-Kamnandi-Hotel-Reservation-System.git
+git clone https://github.com/NtandoMgo/phumlakamnandi_hotel_system
 
 2. Open the file in Visual Studio
 
 3. Click run to begin running the program
-
-## Credits
-
-- Developed in collaboration by: [Zakwan Khan](https://github.com/SteveJava) and [Dylan Friedman](https://github.com/MrFriedman)
 
 ---
